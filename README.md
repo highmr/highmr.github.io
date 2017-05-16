@@ -1,2 +1,2 @@
 # highmr.github.io
-my-blog
+This is my blog
